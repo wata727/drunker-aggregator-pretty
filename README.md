@@ -1,5 +1,7 @@
 # Drunker::Aggregator::Pretty
 
+**[DEPRECATED] This aggregator was integrated into Drunker.**
+
 Default aggregator for [Drunker](https://github.com/wata727/drunker).
 
 ## Installation
